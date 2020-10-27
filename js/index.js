@@ -1,4 +1,3 @@
-var name = "Janet";
 var height = 74;
 
 console.log(Joe);
